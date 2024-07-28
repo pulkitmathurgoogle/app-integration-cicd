@@ -155,13 +155,13 @@
 				"connectionName": {
 					"key": "connectionName",
 					"value": {
-						"stringValue": "projects/bap-amer-west-demo1/locations/us-west1/connections/pubsub"
+						"stringValue": "projects/bap-emea-apigee-11/locations/europe-west4/connections/pubsub"
 					}
 				},
 				"connectionVersion": {
 					"key": "connectionVersion",
 					"value": {
-						"stringValue": "projects/bap-amer-west-demo1/locations/global/providers/gcp/connectors/pubsub/versions/1"
+						"stringValue": "projects/bap-emea-apigee-11/locations/global/providers/gcp/connectors/pubsub/versions/1"
 					}
 				},
 				"connectorInputPayload": {
@@ -283,7 +283,7 @@
 				"displayName": "`CONFIG_CONN_NAME`"
 			},
 			"value": {
-				"stringValue": "projects/bap-amer-west-demo1/locations/us-west1/connections/pubsub"
+				"stringValue": "projects/bap-emea-apigee-11/locations/europe-west4/connections/pubsub"
 			}
 		}
 	],

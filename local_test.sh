@@ -1,7 +1,7 @@
 #!/bin/sh
 
 cp -r tests tests_local
-export location=us-west1
+export location=europe-west4
 export name=$(ls -A src | sed 's/\.json'$//)
 export projectId=bap-amer-west-demo1
 export host=${location}-integrations.googleapis.com
