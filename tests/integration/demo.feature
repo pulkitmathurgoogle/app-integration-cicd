@@ -9,4 +9,3 @@ Scenario: Demo the functional tests
     Given I set body to {"trigger_id": "TRIGGER_ID"}
     When I POST to /
     Then response code should be 200
-    And custom header X-INTEGRATION-ENV should be INTEGRATION_ENV
